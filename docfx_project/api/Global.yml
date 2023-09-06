@@ -1,0 +1,29 @@
+### YamlMime:ManagedReference
+items:
+- uid: Global
+  id: Global
+  children:
+  - Global.Grow
+  - Global.ScrollingUVs_Layers
+  langs:
+  - csharp
+  - vb
+  name: ''
+  nameWithType: ''
+  fullName: ''
+  type: Namespace
+  assemblies:
+  - Assembly-CSharp
+references:
+- uid: Global.ScrollingUVs_Layers
+  commentId: T:Global.ScrollingUVs_Layers
+  href: ScrollingUVs_Layers.html
+  name: ScrollingUVs_Layers
+  nameWithType: ScrollingUVs_Layers
+  fullName: ScrollingUVs_Layers
+- uid: Global.Grow
+  commentId: T:Global.Grow
+  href: Grow.html
+  name: Grow
+  nameWithType: Grow
+  fullName: Grow

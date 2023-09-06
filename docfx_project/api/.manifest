@@ -1,0 +1,8 @@
+{
+  "Global": "Global.yml",
+  "Global.Grow": "Global.Grow.yml",
+  "Global.Grow.scale": "Global.Grow.yml",
+  "Global.ScrollingUVs_Layers": "Global.ScrollingUVs_Layers.yml",
+  "Global.ScrollingUVs_Layers.textureName": "Global.ScrollingUVs_Layers.yml",
+  "Global.ScrollingUVs_Layers.uvAnimationRate": "Global.ScrollingUVs_Layers.yml"
+}
